@@ -1,6 +1,3 @@
-This README provides a brief overview, instructions for setting up the project, and guidance on how to customize the portfolio.
-
-```markdown
 # Portfolio Website
 
 This is a simple portfolio website template designed to showcase your skills, projects, and experience. The template is easy to customize and serves as a professional online presence for developers, designers, and other professionals.
@@ -84,6 +81,3 @@ You can customize the following sections of the portfolio:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Remember to replace placeholder text such as `your-username` and customize the sections based on your project structure and preferences. Additionally, include screenshots or GIFs of your portfolio website in the repository to provide a visual preview.
